@@ -46,9 +46,9 @@ void bloquear(){
        
 }
 boolean verificarCampos(){
-    if()
-    
-}
+//    if()
+//    
+//}
 //
 //void desbloquear(){
 //   
