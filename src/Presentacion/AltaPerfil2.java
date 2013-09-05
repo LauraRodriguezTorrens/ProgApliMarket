@@ -536,6 +536,7 @@ private postgres Pg = new postgres();
     private DefaultListModel modListaImagen = new DefaultListModel();
 
     
+    //skadlN.CEDAS
     
     //Genera un código unico para la imagen
  private String GenerarCodigo()
